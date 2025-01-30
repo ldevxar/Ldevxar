@@ -12,7 +12,7 @@ Jestem sobie jestem i wgl takie inne rzeczy robie i wogole wiesz co robi dupa? c
 ## 🚀 Moje projekty
 
 ### 🔹 [Kalkulator]
-Narzędzie pozwalajace liczyc
+- Narzędzie pozwalajace liczyc
 
 ## 💻 Technologie, z których korzystam:
 
