@@ -16,7 +16,7 @@ Narzędzie pozwalajace liczyc
 
 ## 💻 Technologie, z których korzystam:
 
-- Języki programowania: [Java, C#, C++]
+- Języki programowania: [Java, C#, C++, Python]
 
 ## 📫 Jak się ze mną skontaktować?
 
