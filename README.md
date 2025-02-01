@@ -21,6 +21,5 @@
 
 ## 📫 Jak się ze mną skontaktować?
 
-- Email: [sigmalaxarchad@gmail.com]
-- Discord: [gjmpson]
-
+- Email: sigmalaxarchad@gmail.com
+- Discord: gjmpson
