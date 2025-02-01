@@ -9,8 +9,8 @@
 - 🖥️ mam chujowego laptopa.
 ## 🚀 Moje projekty
 
- - 🔹 [Kalkulator]
  - 🔹 [Generator haseł]
+ - 🔹 [Spuffler]
 
 
 
