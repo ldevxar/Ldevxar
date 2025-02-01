@@ -9,7 +9,7 @@
 - 🖥️ mam chujowego laptopa.
 ## 🚀 Moje projekty
 
- - 🔹 [Generator haseł]
+ - 🔹 [Skibidi Passowrd Generator]
  - 🔹 [Spuffler]
 
 
