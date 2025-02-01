@@ -1,6 +1,6 @@
 # Heiść jestem laxar! 👋                                                                                            
-<img src="https://avatars.githubusercontent.com/u/118619068?v=4" alt="ja" width="80px" align="right">    
-Jestem sobie jestem i wgl takie inne rzeczy robie i wogole wiesz co robi dupa? co gowno xdxd      
+<img src="https://avatars.githubusercontent.com/u/118619068?v=4" alt="ja" width="70px" align="right">    
+ Jestem sobie jestem i wgl takie inne rzeczy robie i wogole wiesz co robi dupa? co gowno xdxd      
                                                                                                                                                                                            
 ## 📚 O mnie                                      
 
