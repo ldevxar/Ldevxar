@@ -9,8 +9,8 @@
 - 🖥️ mam chujowego laptopa.
 ## 🚀 Moje projekty
 
- - 🔹 [Skibidi Passowrd Generator]
- - 🔹 [Spuffler]
+ - 🔹 [Skibidi Passowrd Generator](https://github.com/ldevxar/Skibidi-Passowrd-Generator)
+ - 🔹 [Spuffler](https://github.com/ldevxar/Spuffler)
 
 
 
