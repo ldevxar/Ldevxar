@@ -9,7 +9,7 @@
 - 🖥️ mam chujowego laptopa.
 ## 🚀 Moje projekty
 
- - 🔹 [Skibidi Passowrd Generator](https://github.com/ldevxar/Skibidi-Passowrd-Generator)
+ - 🔹 [Skibidi Password Generator](https://github.com/ldevxar/Skibidi-Password-Generator)
  - 🔹 [Spuffler](https://github.com/ldevxar/Spuffler)
 
 
