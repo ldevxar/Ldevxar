@@ -1,17 +1,19 @@
-# Heiść jestem laxar! 👋
-
-Jestem sobie jestem i wgl takie inne rzeczy robie i wogole wiesz co robi dupa? co gowno xdxd        ![ja](https://avatars.githubusercontent.com/u/118619068?v=4)                                                    
-
-## 📚 O mnie
+# Heiść jestem laxar! 👋                                                                                            
+<img src="https://avatars.githubusercontent.com/u/118619068?v=4" alt="ja" width="80px" align="right">    
+Jestem sobie jestem i wgl takie inne rzeczy robie i wogole wiesz co robi dupa? co gowno xdxd      
+                                                                                                                                                                                           
+## 📚 O mnie                                      
 
 - 👨‍💻 nie umiem programowac.
 - 🎮 nie umiem robic gier.
 - 🖥️ mam chujowego laptopa.
-
 ## 🚀 Moje projekty
 
-### 🔹 [Kalkulator]
-### 🔹 [Generator haseł]
+ - 🔹 [Kalkulator]
+ - 🔹 [Generator haseł]
+
+
+
 
 ## 💻 Technologie, z których korzystam:
 
