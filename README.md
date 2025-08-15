@@ -6,7 +6,7 @@
 
 - 👨‍💻 nie umiem programowac.
 - 🎮 nie umiem robic gier.
-- 🖥️ mam chujowego laptopa.
+- 🖥️ mam komputer.
 ## 🚀 Moje projekty
 
  - 🔹 [Skibidi Password Generator](https://github.com/ldevxar/Skibidi-Password-Generator)
